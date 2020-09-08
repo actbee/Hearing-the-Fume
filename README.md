@@ -6,10 +6,16 @@
 
 This is a little project mainly based on Arduino.
 
+
+![system](https://github.com/actbee/Hearing-the-Fume/blob/master/mode.jpg?raw=true)
+
+
 There are four sensors hiden under the paper chimneys, so when hands put down towards those paper chimneys the actual
 distances can be detected and thus the computer will know the real-time data and play the exact sound we provided before.
-To be more specific, it will change the sound from noisy city sound to holy nature sound. At the same time, we add some 
-chemicals to produce continues fume from the chimneys. 
+To be more specific, it will change the sound from noisy city sound to holy nature sound. One sound is fadding and another
+is appearing. In the same time, we add some chemicals to produce continues fume from the chimneys. 
+
+
 
 ![detail](https://github.com/actbee/Hearing-the-Fume/blob/master/4.jpg?raw=true)
 
